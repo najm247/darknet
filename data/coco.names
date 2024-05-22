@@ -1,80 +1,215 @@
-person
-bicycle
-car
-motorbike
-aeroplane
-bus
-train
-truck
-boat
-traffic light
-fire hydrant
-stop sign
-parking meter
-bench
-bird
-cat
-dog
-horse
-sheep
-cow
-elephant
-bear
-zebra
-giraffe
-backpack
-umbrella
-handbag
-tie
-suitcase
-frisbee
-skis
-snowboard
-sports ball
-kite
-baseball bat
-baseball glove
-skateboard
-surfboard
-tennis racket
-bottle
-wine glass
-cup
-fork
-knife
-spoon
-bowl
-banana
-apple
-sandwich
-orange
-broccoli
-carrot
-hot dog
-pizza
-donut
-cake
-chair
-sofa
-pottedplant
-bed
-diningtable
-toilet
-tvmonitor
-laptop
-mouse
-remote
-keyboard
-cell phone
-microwave
-oven
-toaster
-sink
-refrigerator
-book
-clock
-vase
-scissors
-teddy bear
-hair drier
-toothbrush
+Porte-conteneurs
+Porte-conteneurs "Feeder" (petits navires pour routes régionales)
+Porte-conteneurs "Feedermax"
+Porte-conteneurs "Handysize" (inférieurs à 3 000 EVP)
+Porte-conteneurs "Panamax" (capables de traverser le canal de Panama)
+Porte-conteneurs "Post-Panamax"
+Porte-conteneurs "New Panamax"
+Porte-conteneurs "Neo-Panamax"
+Porte-conteneurs "Ultra Large" (très grands porte-conteneurs)
+Vraquiers pour minéraux (minerai de fer, bauxite)
+Vraquiers pour produits agricoles (grains, soja)
+Vraquiers pour fertilisants
+Vraquiers pour charbon
+Vraquiers pour sable et gravier
+Vraquiers combinés Ore-Bulk-Oil (OBO)
+Vraquiers Handysize
+Vraquiers Handymax
+Vraquiers Supramax
+Vraquiers Panamax
+Vraquiers Post-Panamax
+Vraquiers Capesize
+Vraquiers Very Large Bulk Carriers (VLBC)
+Vraquiers Ultra Large Bulk Carriers (ULBC)
+Ro-Ro pour automobiles
+Ro-Ro pour équipement lourd
+Ro-Ro pour marchandises en vrac
+Ro-Ro pour fret militaire
+Ro-Ro ferries (transport de passagers et véhicules)
+ConRo (combinant porte-conteneurs et cargaison roulante)
+RoPax (combinant Ro-Ro et transport de passagers)
+Pétroliers pour produits chimiques
+Pétroliers pour asphalte
+Pétroliers pour produits raffinés
+Pétroliers pour pétrole brut
+Aframax
+Suezmax
+VLCC (Very Large Crude Carrier)
+ULCC (Ultra Large Crude Carrier)
+Chimiquiers pour produits chimiques industriels
+Chimiquiers pour acides
+Chimiquiers pour huiles végétales
+Chimiquiers pour vins et liquides alimentaires
+Chimiquiers Inoxydables
+Chimiquiers Epoxy
+Chimiquiers de type MR (Medium Range)
+Gaziers pour Gaz Naturel Liquéfié (GNL)
+Gaziers pour Gaz de Pétrole Liquéfié (GPL)
+Gaziers pour ammoniaque
+Gaziers pour éthylène
+Gaziers Combinés
+Semi-submersibles
+Dock ships
+Navires à pont ouvert
+Navires à pont fermé
+Navires avec des équipements de levage lourd
+Navires avec ponts ajustables
+Tweendeckers
+Navires avec facilités de réfrigération
+Navires pour le transport de bois
+Navires pour le transport de véhicules de luxe
+Navires pour le transport de grains en vrac
+Navires pour le transport de ciment en vrac
+Navires pour le transport de bétail
+Paquebots de croisière
+Paquebots traditionnels
+Méga-paquebots
+Paquebots de luxe
+Paquebots d'expédition
+Paquebots à voiles
+Paquebots fluviaux
+Paquebots pour familles
+Paquebots écologiques
+Paquebots de croisière pour seniors
+Paquebots de croisière d'aventure
+Paquebots d'expédition polaire
+Ferries
+Ferries traditionnels
+Ferries à grande vitesse
+Ferries Ro-Pax
+Ferries de nuit
+Ferries écologiques
+Ferries courts trajets
+Ferries longs trajets
+Ferries hybrides
+Ferries électriques
+Ferries à énergie solaire
+Ferries à hydrogène
+Navires à grande vitesse
+Catamarans
+Hydrofoils
+Trimarans
+Jets de mer
+Navires à effet de surface
+Navires à propulsion jet
+Navires à aile immergée
+Bateaux-mouches
+Bateaux-mouches panoramiques
+Bateaux-mouches de restauration
+Bateaux-mouches événementiels
+Bateaux-mouches historiques
+Bateaux de croisière fluviale
+Bateaux-boutique
+Bateaux d'aventure fluviale
+Bateaux-canaux
+Navires spécialisés
+Navires-écoles
+Navires de croisière à thème
+Navires de croisière scientifique
+Navires de croisière médicale
+USS Gerald R. Ford (CVN-78)
+Charles de Gaulle (R91)
+HMS Queen Elizabeth (R08)
+INS Vikramaditya
+Liaoning (CV-16)
+USS Nimitz (CVN-68)
+Admiral Kuznetsov
+USS Theodore Roosevelt (CVN-71)
+INS Vikrant
+Shandong (CV-17)
+Classe Arleigh Burke
+Type 45 (Daring-class)
+Classe Kongo
+Classe Hobart
+Classe Akizuki
+Classe Atago
+Classe Sejong the Great
+Classe Zumwalt
+Classe Sovremenny
+Classe Daring
+Classe FREMM
+Classe Álvaro de Bazán
+Classe Adelaide
+Classe Anzac
+Classe Iver Huitfeldt
+Classe Sachsen
+Classe F124
+Classe F125
+Classe Meko A-200
+Classe De Zeven Provinciën
+Classe Ticonderoga
+Classe Kirov
+Classe Slava
+Classe Zumwalt
+Classe Type 055
+Classe Type 052D
+Classe Varyag
+Classe Moskva
+Classe Pyotr Velikiy
+Classe Admiral Nakhimov
+Classe Virginia
+Classe Astute
+Classe Los Angeles
+Classe Seawolf
+Classe Ohio
+Classe Vanguard
+Classe Borei
+Classe Yasen
+Classe Type 212
+Classe Scorpène
+Classe San Antonio
+Classe Mistral
+Classe Wasp
+Classe America
+Classe Canberra
+Classe Dokdo
+Classe Albion
+Classe Bay
+Classe Osumi
+Classe Rotterdam
+Classe Steregushchiy
+Classe K130 Braunschweig
+Classe Visby
+Classe Buyan-M
+Classe Sigma
+Classe Ada
+Classe Gremyashchiy
+Classe Tarantul
+Classe Sa'ar 5
+Classe Khareef
+Classe Lewis and Clark
+Classe Supply
+Classe Fort Victoria
+Classe Berlin
+Classe Wave
+Classe Cantabria
+Classe Victoria
+Classe Aotearoa
+Classe Kilauea
+Classe AOR
+Classe Cyclone
+Classe River
+Classe Island
+Classe Guardian
+Classe Stan Patrol
+Classe L'Adroit
+Classe Pohang
+Classe Skjold
+Classe Osprey
+Classe Krivak
+Classe Avenger
+Classe Tripartite
+Classe Sandown
+Classe Hunt
+Classe Gaeta
+Classe Osprey
+Classe Koster
+Classe Lerici
+Classe Yao Gan
+Classe Frankenthal
+Classe Kondor
+Classe Harima
+Classe EDIC
+Classe Istiklal
+Classe Albatros
+Classe La Fayette
